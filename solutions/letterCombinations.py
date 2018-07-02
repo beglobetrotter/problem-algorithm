@@ -9,4 +9,4 @@ class solution(object):
         return reduce(lambda x, y: [i + j for i in x for j in y], letters)
 
 example = solution()
-print(example.letterCombinations('2'))
+print(example.letterCombinations('284'))
