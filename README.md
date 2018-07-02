@@ -8,3 +8,11 @@ Programming problems and their corresponding Python solutions
 --52  combinationSum2.py
 --53  firstMissingPositive.py
 --54  trapRainWater.py
+--55  multiplyStrings.py
+--56  wildcardMatching.py
+--57  jumpGame2.py
+--58  letterCombinations.py
+--59  permutations.py
+--60  permutations2.py
+--61  rotateImage.py
+--62  groupAnagrams.py
