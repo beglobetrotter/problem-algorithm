@@ -16,3 +16,7 @@ Programming problems and their corresponding Python solutions
 --60  permutations2.py
 --61  rotateImage.py
 --62  groupAnagrams.py
+--63  myPow.py
+--64  solveNQueens.py
+--65  totalNQueens.py
+--66  maxSubArray.py
